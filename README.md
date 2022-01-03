@@ -1,4 +1,4 @@
 # Codebasics_Project
 
-This repository contains all my practics projects while learning Machine Learning and Deep Learning.
+This repository contains all my practice projects while learning Machine Learning and Deep Learning.
 
